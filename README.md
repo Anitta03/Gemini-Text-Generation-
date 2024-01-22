@@ -4,4 +4,4 @@ Text generation from image
 - Create environment ptyhon = 3.10 & Activate
 - Pip install requirements.txt
 - ceate .env file and save GOOGLE_API_KEY
-- streamlit run views.py
+- streamlit run view.py
